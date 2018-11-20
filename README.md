@@ -20,6 +20,10 @@
 
 -and finally call the function fresh_tomatoes.open_movies_page (movies) to open the html of the program with all the information of the instances.
 
+# Credits
+-Udacity curse - NanoDegree Web Developer Full Stack
+
+
 
 
 
