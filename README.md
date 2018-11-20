@@ -7,6 +7,7 @@
 
 # how to make
 -to start you need to create a class
+
 -then create a function so that you can save the following information: title, synopsis, poster image and movie trailer
 -after that create another function so you can open the trailers
 -then create the instances of the class, in which each one will contain its own title, synopsis, poster image and trailer.
