@@ -1,11 +1,13 @@
 # My-Favorite-Films
 
-# Project's goal
+# Project's Goal
 -create a movie website
+
 -that contains pictures and titles of your favorite movies
+
 -and when you click on the movie pictures, open the respective trailers for each movie
 
-# How to make
+# How to  Make
 -to start you need to create a class
 
 -then create a function so that you can save the following information: title, synopsis, poster image and movie trailer
